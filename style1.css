@@ -113,9 +113,15 @@ p{
     font-size: 18px;
 }
 
+
+html{
+    background-color:#ffffff;
+}
+
 footer {
     background-color: #801616;
     color: white;
     text-align: center;
     padding: 10px;
 }
+
