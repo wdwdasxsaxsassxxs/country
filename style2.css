@@ -1,0 +1,65 @@
+
+body {
+    font-family: sans-serif;
+    margin: 1;
+    padding: 1;
+    background-color: #f3d9db;
+}
+
+
+
+header {
+    background-color: #801616;
+    padding: 10px;
+}
+
+.myNavigation {
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.myNavigation a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+    
+}
+.myNavigation a:hover {
+    background-color: #801616;
+}
+
+
+.FantasticParty {
+    color: lightbrown;
+    border: 7px solid #801616;
+    border-radius: 15px;
+    background-color: #FFF5E1;
+    padding: 10px;
+}
+
+.tobar {
+    background-color: #801616;
+    color: white;
+    border-radius: 11px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.pop {
+    background-color: #D46A6A;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+
+
+footer {
+    background-color: #801616;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
